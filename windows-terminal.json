@@ -1,0 +1,23 @@
+{
+	"background": "#191920",
+	"black": "#191920",
+	"blue": "#37D3E0",
+	"brightBlack": "#191920",
+	"brightBlue": "#37D3E0",
+	"brightCyan": "#4FE1C5",
+	"brightGreen": "#67F0AB",
+	"brightPurple": "#7E7DFD",
+	"brightRed": "#FF2E18",
+	"brightWhite": "#F8F8F8",
+	"brightYellow": "#F9FC45",
+	"cursorColor": "#AEAFAD",
+	"cyan": "#4FE1C5",
+	"foreground": "#F8F8F8",
+	"green": "#67F0AB",
+	"name": "norrsken",
+	"purple": "#7E7DFD",
+	"red": "#FF2E18",
+	"selectionBackground": "#44475A",
+	"white": "#F8F8F8",
+	"yellow": "#F9FC45"
+}
